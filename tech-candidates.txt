@@ -1,0 +1,8 @@
+TECHS:
+
+- zustand
+- radix-ui
+- cloudflare pages
+- cloudflare workers
+- planetscale
+- payment gateway => ???
